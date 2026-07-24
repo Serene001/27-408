@@ -1,4 +1,4 @@
-![[file-20260725001708902.png]]
+
 # 1.微程序
 
 
@@ -426,14 +426,14 @@ PC 是在【取指阶段（Fetch）读取完指令后，立即加 1】！
 
 
 ![[Pasted image 20260723195237.png]]
+![](assets/第五章CPU/file-20260725002115546.png)
 
-![[Pasted image 20260723195212.png]]
 
 
 
 ## loaduse冒险
 
-![[Pasted image 20260723200228.png]]
+![](assets/第五章CPU/file-20260725002145164.png)
 
 
 
