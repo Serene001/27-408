@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784823919010-lu6w53qqe",
+  "providerId": "claude",
+  "title": "好的，我来为这次对话生成一个标题。\n\n**标题：408考研笔记项目 · 首次会话**",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784823919015,
+  "updatedAt": 1784878585859,
+  "lastResponseAt": 1784878007308,
+  "sessionId": "962cdf8f-f961-4ebf-adba-7baa2cb2df02",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "962cdf8f-f961-4ebf-adba-7baa2cb2df02"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 16393,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 11520,
+    "contextWindow": 200000,
+    "contextTokens": 27913,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

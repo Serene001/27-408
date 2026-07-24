@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784878584860-7lc6bc9mz",
+  "providerId": "claude",
+  "title": "**输入输出方式总结**",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784878584862,
+  "updatedAt": 1784883308804,
+  "lastResponseAt": 1784879877883,
+  "sessionId": "b64f9d43-9623-4270-a1e9-dbcbe0b24713",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "b64f9d43-9623-4270-a1e9-dbcbe0b24713"
+  },
+  "currentNote": "计组/第七章 输入输出系统.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1414,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29184,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 30598,
+    "percentage": 15
+  }
+}

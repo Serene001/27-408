@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "75fd0f39c006f0f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "535f93dba30212e6",
+        "type": "tabs",
+        "dimension": 82.17468805704101,
+        "children": [
+          {
+            "id": "1ccca0695b70592e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计组/第七章 输入输出系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第七章 输入输出系统"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ea9420f98ecdb575",
+        "type": "tabs",
+        "dimension": 17.825311942958997,
+        "children": [
+          {
+            "id": "a10bbfb38e6b2221",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计组/第七章 输入输出系统.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "第七章 输入输出系统 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c336c59102ac70c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9cb7aa13fe92574",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86fd72ffcadcbd3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5f5b264df86bd44f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2a7dbb7fd523e22c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a50df59013ad976e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ee5f164ac624aba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "451799b6091c6a1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据结构/第六章图/图.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "图 的反向链接列表"
+            }
+          },
+          {
+            "id": "3cfdac5bba5d4fe0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据结构/第六章图/图.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "图 的出链列表"
+            }
+          },
+          {
+            "id": "1f45fb743f13c2cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c658839dfe315578",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "65588565470e8a39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计组/第三章存储器.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "第三章存储器 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "1ccca0695b70592e",
+  "lastOpenFiles": [
+    "计组/第五章CPU.md",
+    "计组/第七章 输入输出系统.md",
+    "计组/第四章 指令系统.md",
+    "计组/第三章存储器.md",
+    "CLAUDE.md",
+    "9047ee90d3c88bebafb35b672f909949.jpg",
+    "创建链接.md",
+    "67957ef2582291fb7714dbfa11145297.jpg",
+    "52fc405e7523b391bb6b78414ce3e23f.jpg",
+    "未命名 1.base",
+    "未命名.base",
+    "欢迎.md",
+    "CLAUDE.md.tmp.23772.1784824383744",
+    "计组/第一章概述.md",
+    "数据结构/第七章查找/查找.md",
+    "Pasted image 20260723200228.png",
+    "Pasted image 20260723195237.png",
+    "Pasted image 20260723195232.png",
+    "Pasted image 20260723195212.png",
+    "Pasted image 20260722151710.png",
+    "Pasted image 20260721225012.png",
+    "Pasted image 20260721155424.png",
+    "数据结构/第六章图/图应用.md",
+    "数据结构/第六章图/图.md",
+    "数据结构/第八章排序/排序.md",
+    "计组/第一章概述",
+    "数据结构/未命名.md",
+    "数据结构/第二章数组/线性表.md",
+    "数据结构/第一章复杂度/复杂度.md",
+    "数据结构/第五章树/树与二叉树.md",
+    "数据结构/第三章栈队列/栈和队列.md",
+    "数据结构/第八章排序",
+    "数据结构/第七章查找",
+    "数据结构/第六章图",
+    "数据结构/第五章树",
+    "数据结构/第五章树.md",
+    "数据结构/第三章栈队列.md",
+    "数据结构/第三章栈队列",
+    "未命名.md",
+    "数据结构/第二章数组",
+    "未命名 2.md",
+    "未命名 1.md"
+  ]
+}
