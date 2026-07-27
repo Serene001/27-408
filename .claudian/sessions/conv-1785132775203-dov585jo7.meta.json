@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785132775203-dov585jo7",
+  "providerId": "claude",
+  "title": "你好！有什么我可以帮你的吗？",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785132775206,
+  "updatedAt": 1785136956638,
+  "lastResponseAt": 1785136956638,
+  "sessionId": "bb4f17c3-b68c-4095-9c42-37e1797240db",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "bb4f17c3-b68c-4095-9c42-37e1797240db"
+  },
+  "currentNote": "408/操作系统/第二章进程与线程.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 722,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 18688,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 19410,
+    "percentage": 10
+  }
+}
