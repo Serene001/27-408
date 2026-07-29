@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785332285322-xbtmb8efk",
+  "providerId": "claude",
+  "title": "我来看看项目上下文和相关文件，了解你需要总结的内容。\n\nLet me check the me...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785332285324,
+  "updatedAt": 1785332293314,
+  "lastResponseAt": 1785332293314,
+  "sessionId": "948ad40c-406c-4ed6-90d8-319c76367f5f",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "948ad40c-406c-4ed6-90d8-319c76367f5f"
+  },
+  "currentNote": "408/操作系统/文件管理.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 18549,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 18549,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": true
+  }
+}
